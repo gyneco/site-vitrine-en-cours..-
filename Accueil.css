@@ -55,8 +55,8 @@ header a:hover {
 
 /* Premier Bloc Hero */
 .premier-bloc {
-    background-image: linear-gradient(rgba(26, 25, 25, 0.616), rgba(26, 25, 25, 0.616)), url(/kay\ bokk\ interface.jpg);
-    min-height: 80vh; /* S'adapte à la hauteur de l'écran */
+    background-image: linear-gradient(rgba(26, 25, 25, 0.616), rgba(26, 25, 25, 0.616)), url("kay bokk interface.jpg");
+    min-height: 80vh;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
